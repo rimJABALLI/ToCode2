@@ -1,0 +1,16 @@
+<xs:element name="numeros" type="numerosType">
+  <xs:complexType name="numerosType">
+<xs:element name="contact" type="contactType">
+  <xs:complexType name="contactType">
+  <xs:attribute name="titre" type="xs:string" use="required"/>
+  <xs:attribute name="techno" type="xs:string"/>
+    <xs:sequence>
+      <xs:element name="nom" type="xs:string"/>
+      <xs:element name="prenom" type="xs:string"/>
+      <xs:element name="telephone" type="xs:string" minOccurs="0" maxOccurs="1"/>
+      <xs:element name="email" type="xs:string" minOccurs="0" maxOccurs="10"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+  </xs:complexType>
+</xs:element>

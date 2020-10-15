@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+
+    <listeAuteurs>
+        <auteur>
+            <nom>aut1</nom>
+            <prenom>praut1</prenom>
+        </auteur>
+        <auteur>
+            <nom>aut2</nom>
+            <prenom>praut2</prenom>
+        </auteur>
+    </listeAuteurs>
+
+    <section>
+        <titre>titsec1</titre>
+        <chapitre>
+            <titre>titchap1</titre>
+            <paragraphe>contenue du parag 1</paragraphe>
+            <paragraphe>contenue du parag 2</paragraphe>
+        </chapitre>
+        <chapitre>
+            <titre>titchap2</titre>
+            <paragraphe>contenue du parag 3</paragraphe>
+            <paragraphe>contenue du parag 4</paragraphe>
+        </chapitre>
+    </section>
+
+    <section>
+        <titre>titsec2</titre>
+        <chapitre>
+            <titre>titchap3</titre>
+            <paragraphe>contenue du parag 5</paragraphe>
+            <paragraphe>contenue du parag 6</paragraphe>
+        </chapitre>
+        <chapitre>
+            <titre>titchap4</titre>
+            <paragraphe>contenue du parag 7</paragraphe>
+            <paragraphe>contenue du parag 8</paragraphe>
+        </chapitre>
+    </section>
+
+</livre>

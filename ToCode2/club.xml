@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Club clubId="ACM" 
+        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        xsi:schemaLocation="C:\\Users\eunew\Desktop\shemaa.xsd">
+   <Member id="_12345" clubs="ACM">
+   <Name>
+      <FirstName>WEB</FirstName>
+      <MiddleInitial>H</MiddleInitial>
+      <LastName>DO</LastName>
+   </Name>
+   </Member>
+</Club>
